@@ -1,0 +1,15 @@
+I have designed it on Python because it's simpler to connect with browser.
+
+I have taken 2 inputs from user -
+one is start_time. If user doesn't enter start_time then url will be formed without start_time otherwise it forms with start_time as described in the document
+
+Second input is which API user wants to hit eg: users or orders.
+
+Run instructions 
+I have executed the code on anaconda Ipython with the following command but if you are running through sublime.txt then you would need to configure for input from user through iPython otherwise Ipython won't accept input.
+
+!python optimizely.py
+
+
+
+

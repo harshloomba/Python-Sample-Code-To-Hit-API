@@ -1,0 +1,7 @@
+Enter Start-Time: 1470100100
+
+Enter which Dataset you want to have eg : orders or users: users
+http://speedfeed.xyz/users/list.json?start_time=1470100100
+{u'end_time': 1470173227, u'batch_size': 10, 
+u'users': [{u'user_last_modified': 1470104542, u'user_id': 874, u'email': u'ChloeGonzalez87@gmail.com', u'name': u'Chloe Gonzalez'} 
+]}
